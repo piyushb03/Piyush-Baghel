@@ -1,1 +1,153 @@
-<h1 align="center">Hi 👋, I'm Piyush Baghel</h1> <h3 align="center">Full Stack Developer | Automation Enthusiast | Problem Solver</h3><p align="center"> Computer Science student passionate about building scalable applications, automation workflows, and solving real-world problems with code. </p>--- 🚀 About Me - 🎓 B.Tech CSE @ ABES Engineering College - 💻 Interested in Full Stack Development & AI Applications - ⚡ Exploring Automation with n8n, AI tools, and vibe coding - 🧠 Practicing Data Structures & Algorithms - 🌱 Currently improving System Design & Backend Development --- 🌐 Connect With Me <p align="left"><a href="https://linkedin.com/in/piyush-baghel"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a><a href="https://leetcode.com/u/piyushb10/"> <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/> </a><a href="https://www.hackerrank.com/profile/piyushbaghel"> <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/> </a><a href="https://www.codechef.com/users/pbbeast"> <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/> </a></p>--- 🛠 Tech Stack Programming Languages "C" (https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c) "C++" (https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) "Python" (https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) "JavaScript" (https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) Web Development "React" (https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react) "Flask" (https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask) "HTML" (https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5) "CSS" (https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3) Databases "SQL" (https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql) Tools & Platforms "Git" (https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git) "GitHub" (https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) "VSCode" (https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode) "Vercel" (https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) "Render" (https://img.shields.io/badge/Render-purple?style=for-the-badge&logo=render) Automation & AI Tools "n8n" (https://img.shields.io/badge/n8n-orange?style=for-the-badge) "Claude" (https://img.shields.io/badge/Claude_AI-black?style=for-the-badge) "AI Automation" (https://img.shields.io/badge/AI_Workflows-blue?style=for-the-badge) --- 📌 Featured Projects 🧠 MindSphere Mental health risk prediction platform using Machine Learning. Tech: Flask, XGBoost, SHAP, Scikit-learn Features: - Explainable AI predictions - Google OAuth authentication - PDF report generation - Full stack ML deployment --- 💰 SpendWise Smart expense tracking web application. Tech: Flask, SQLAlchemy, Chart.js Features: - Financial dashboard - Transaction analytics - CRUD operations - Secure authentication --- 📊 GitHub Stats <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=piyushb03&show_icons=true&theme=tokyonight"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushb03&layout=compact&theme=tokyonight"/></p>--- 🔥 Contribution Graph <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushb03&theme=tokyo-night"/>--- 🏆 GitHub Trophies <img src="https://github-profile-trophy.vercel.app/?username=piyushb03&theme=tokyonight"/>--- 🧠 Coding Profiles - LeetCode - CodeChef - HackerRank Practicing Data Structures & Algorithms and solving competitive programming challenges regularly. --- ⭐ From "piyushb03" (https://github.com/piyushb03)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Piyush+Baghel;Full+Stack+Developer;Automation+Enthusiast;AI+Workflow+Builder;Problem+Solver"/>
+</p>
+
+<h3 align="center">
+Full Stack Developer | Automation Enthusiast | Problem Solver
+</h3>
+
+<p align="center">
+Computer Science student passionate about building scalable applications, automation workflows, and solving real-world problems with code.
+</p>
+
+---
+
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+# 🚀 About Me
+
+* 🎓 **B.Tech CSE — ABES Engineering College**
+* 💻 **Interested in Full Stack Development & AI Applications**
+* ⚡ **Exploring Automation with n8n, AI tools & AI workflows**
+* 🧠 **Practicing Data Structures & Algorithms**
+* 🌱 **Currently learning System Design & Backend Development**
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/piyush-baghel">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:piyushbaghel2020@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/piyushbaghel03">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🧠 Coding Profiles
+
+<p>
+
+<a href="https://leetcode.com/u/piyushb10/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/piyushbaghel">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/pbbeast">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+### Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,flask,html,css"/>
+
+</p>
+
+### Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-8A2BE2?style=for-the-badge&logo=render&logoColor=white"/>
+
+</p>
+
+### Automation & AI
+
+<p>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Claude_AI-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Workflows-blue?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🧠 MindSphere
+
+Mental health risk prediction platform using Machine Learning.
+
+**Tech:** Flask, XGBoost, SHAP, Scikit-learn
+
+Features
+
+* Explainable AI predictions
+* Google OAuth authentication
+* PDF report generation
+* Full stack ML deployment
+
+---
+
+## 📊 InsightlyAI
+
+AI-powered SaaS analytics platform for generating dashboards, insights, and sales forecasts from uploaded business data.
+
+**Tech:** Next.js, Flask, SQLAlchemy, Tailwind CSS, Recharts, Pandas, Groq API 
+
+**Features**
+
+* Upload Excel/CSV sales data
+* Automatic dashboard generation
+* AI-powered business insights
+* Sales forecasting using time-series models
+* Secure JWT authentication
+* Exportable analytical reports
+
+---
+
+⭐ From **Piyush Baghel**
+
+https://github.com/piyushb03
