@@ -74,7 +74,6 @@ Computer Science student passionate about building scalable applications, automa
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
