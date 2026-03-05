@@ -2,14 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Piyush+Baghel;Full+Stack+Developer;Automation+Enthusiast;AI+Workflow+Builder;Problem+Solver"/>
 </p>
 
-
-
-
-
-<h3 align="center">
-Full Stack Developer | Automation Enthusiast | Problem Solver
-</h3>
-
 <p align="center">
 Computer Science student passionate about building scalable applications, automation workflows, and solving real-world problems with code.
 </p>
